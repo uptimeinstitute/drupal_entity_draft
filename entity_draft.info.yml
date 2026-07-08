@@ -4,4 +4,4 @@ description: Allow saving of entities in draft state.
 package: Entity
 dependencies:
   - controlled_fields:controlled_fields
-core_version_requirement: ^8.8 || ^9
+core_version_requirement: ^8.8 || ^9 || ^10
